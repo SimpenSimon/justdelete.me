@@ -4633,6 +4633,16 @@
             "path.com"
         ]
     },
+    
+    {
+        "name": "Patreon",
+        "url": "https://www.patreon.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the page and click the 'disble my account' button. You should then get an email from Patreon whith a link to that takes you to a page with a a button that say's 'yes, disble my account' and clicking it will remove your account.",
+        "domains": [
+            "patreon.com/"
+        ]
+    },
 
     {
         "name": "Patrick Krempf Reminder",
